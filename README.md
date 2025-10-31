@@ -1,2 +1,3 @@
 # WEEK-1
-Urban Heat Island Detection and Mapping using Deep Learning This project uses deep learning to detect and map Urban Heat Islands (UHIs) from satellite images. A CNN model identifies high-temperature zones and creates heat maps to support sustainable urban planning.
+Week 1 project for the Shell–Edunet Skills4Future AICTE Internship.
+This repository contains the problem statement and project documentation for “Urban Heat Island Detection and Mapping using Deep Learning”, a sustainability-focused AI project that applies Convolutional Neural Networks (CNNs) to analyze satellite imagery and identify high-temperature urban zones for climate-resilient city planning.
